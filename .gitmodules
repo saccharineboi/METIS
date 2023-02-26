@@ -1,4 +1,4 @@
 [submodule "3rdparty/GKlib"]
-    path = 3rdparty/GKlib
-    url = https://github.com/KarypisLab/GKlib
-    branch = master
+	path = 3rdparty/GKlib
+	url = https://github.com/KarypisLab/GKlib
+	branch = master

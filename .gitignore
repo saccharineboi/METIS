@@ -59,6 +59,3 @@ graphs/*.epart.*
 graphs/*.npart.*
 GKlib
 .svn/
-
-build
-3rdparty
