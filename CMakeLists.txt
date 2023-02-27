@@ -19,5 +19,4 @@ endif(SHARED)
 include(./conf/gkbuild.cmake)
 
 add_subdirectory(libmetis)
-target_include_directories(metis PRIVATE ./3rdparty/GKlib)
 target_include_directories(metis PRIVATE ./include)
