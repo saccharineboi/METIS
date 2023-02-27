@@ -14,6 +14,7 @@
 #ifndef _LIBMETIS_METISLIB_H_
 #define _LIBMETIS_METISLIB_H_
 
+#include <corecrt_math.h>
 #include <GKlib.h>
 
 #if defined(ENABLE_OPENMP)
